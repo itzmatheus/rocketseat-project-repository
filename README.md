@@ -45,7 +45,6 @@ Será aberto uma aba no navegador padrão para exibir a aplicação ou acesse: `
   <li>Prettier</li>
   <li>EditorConfig</li>
 </ul>
-## Exemplo da Aplicação
 
 ![Pagina Principal](https://i.imgur.com/98wz47n.png)
 

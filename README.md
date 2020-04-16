@@ -27,7 +27,7 @@ Após clonar o repositório e instalar o pré-requisito:
 
 Será aberto uma aba no navegador padrão para exibir a aplicação ou acesse: `localhost:3000` e adicione seus repositórios preferidos :)
 
-## Construindo Utilizando
+## Construido Utilizando
 <ul>
   <li>React JS</li>
   <li>Axios</li>
